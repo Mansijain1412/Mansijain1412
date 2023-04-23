@@ -2,7 +2,7 @@
 [![hello.gif](https://i.postimg.cc/jdyCm5KM/hello.gif)](https://postimg.cc/YhqpmtvF)
 </div>
 
-[![MasterHead](https://i.postimg.cc/x81S0n4N/bi-dashboard-for-website.gif)]
+[![MasterHead](https://i.postimg.cc/x81S0n4N/bi-dashboard-for-website.gif)](https://mansijain1412.github.io/)
 <h1 align="center">I'm Mansi Jain 👋🏼</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="350px" align="right">
