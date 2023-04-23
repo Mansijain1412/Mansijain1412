@@ -1,42 +1,43 @@
-<div align="center">
-[![hello.gif](https://i.postimg.cc/jdyCm5KM/hello.gif)](https://postimg.cc/YhqpmtvF)
+<div align= "center">
+<img src="https://raw.githubusercontent.com/desaidhruv/desaidhruv/master/hello.gif" width="250" height="200">
 </div>
 
-[![MasterHead](https://i.postimg.cc/x81S0n4N/bi-dashboard-for-website.gif)](https://mansijain1412.github.io/)
+<div align="center">
+<img src = "https://i.postimg.cc/3JZnX2Wh/profile.gif">
+</div>
+
 <h1 align="center">I'm Mansi Jain 👋🏼</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="350px" align="right">
+<img src="https://i.postimg.cc/fk4yk3ng/poprgfg.gif" width="350px" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaykumar1801&label=Profile%20views&color=0e75b6&style=flat" alt="vinaykumar1801" /> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://vinaykumar1801.github.io/](https://vinaykumar1801.github.io/)
+- 💬 Ask me about **Excel,SQL,Python,PowerBI**
 
-- 💬 Ask me about **JavaScript,Redux,MERN,NextJs,TypeScript**
-
-- 📫 How to reach me **vk2814512@gmail.com**
+- 📫 How to reach me **mansijain244@gmail.com**
 
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vinaykumar1801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinaykumar1801" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mansi-jain-6536681b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mansijain1412" height="30" width="40" /></a>
 </p>
 
 <h2 align="center">My Skills</h2>
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,redux,typescript,nextjs,nodejs,expressjs,mongodb,git,materialui,bootstrap,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=excel,python,js,react,redux,typescript,nextjs,nodejs,expressjs,mongodb,git,materialui,bootstrap,vscode)](https://skillicons.dev)
 </div>
 
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinaykumar1801&theme=github_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinaykumar1801&theme=github_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinaykumar1801&theme=github_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinaykumar1801&theme=github_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vinaykumar1801&theme=github_dark&utcOffset=8">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mansijain1412&theme=github_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mansijain1412&theme=github_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mansijain1412&theme=github_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mansijain1412&theme=github_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mansijain1412&theme=github_dark&utcOffset=8">
 	
 </p>
 
