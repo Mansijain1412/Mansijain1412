@@ -1,10 +1,10 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://i.postimg.cc/jdyCm5KM/hello.gif" height="150px" alt="Typing SVG"/></a>
+[![hello.gif](https://i.postimg.cc/jdyCm5KM/hello.gif)](https://postimg.cc/YhqpmtvF)
 </div>
 
-[![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)](https://vinaykumar1801.github.io/)
-<h1 align="center">I'm Vinay Kumar 👋🏼</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+[![MasterHead](https://i.postimg.cc/sf7WSy1C/profilee.gif)](https://vinaykumar1801.github.io/)
+<h1 align="center">I'm Mansi Jain 👋🏼</h1>
+<h3 align="center">A passionate Data Analyst from India</h3>
 <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="350px" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaykumar1801&label=Profile%20views&color=0e75b6&style=flat" alt="vinaykumar1801" /> </p>
