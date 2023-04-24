@@ -25,11 +25,20 @@
 </p>
 
 <h2 align="center">My Skills</h2>
-<div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=excel,python,js,react,redux,typescript,nextjs,nodejs,expressjs,mongodb,git,materialui,bootstrap,vscode)](https://skillicons.dev)
-</div>
 
+<br>
+
+<div style={{display:'flex'}}>
+<p align="center">
+<img src="https://img.icons8.com/color/48/null/python--v1.png"/>
+<img src="https://img.icons8.com/color/48/null/numpy.png"/>
+<img src="https://img.icons8.com/color/48/null/pandas.png"/>
+<img src="https://img.icons8.com/color/48/null/selenium-test-automation.png"/>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <img src="https://img.icons8.com/color/48/null/power-bi.png"/><img src="https://img.icons8.com/color/48/null/ms-excel.png"/><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+	</p>
+	</div>
+	
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
