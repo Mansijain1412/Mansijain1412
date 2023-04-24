@@ -10,7 +10,7 @@
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img src="https://i.postimg.cc/fk4yk3ng/poprgfg.gif" width="350px" align="right">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaykumar1801&label=Profile%20views&color=0e75b6&style=flat" alt="vinaykumar1801" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mansijain1412&label=Profile%20views&color=0e75b6&style=flat" alt="mansijain1412" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
 
