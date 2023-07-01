@@ -1,6 +1,4 @@
-<div align= "center">
-<img src="https://raw.githubusercontent.com/desaidhruv/desaidhruv/master/hello.gif" width="200" height="100">
-</div>
+
 <div align="center">
 <img src = "https://i.postimg.cc/3JZnX2Wh/profile.gif">
 </div>
