@@ -18,7 +18,6 @@
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mansi-jain-6536681b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mansijain1412" height="30" width="40" /></a>
-[![Gmail Badge](https://img.shields.io/badge/mansijain244@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:mansijain244@gmail.com) 
 
 </p>
 
@@ -52,8 +51,6 @@
 </div>
 <br>
 
-<br>
-	
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
