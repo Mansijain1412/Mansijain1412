@@ -1,5 +1,6 @@
 <h1 align="center">I'm Mansi Jain 👋🏼</h1>
-<h3 align="center">A passionate Data Analyst from India, GitHub Profile: Data Whisperer | Unveiling insights through data manipulation, stats analysis, and visualization. Let's decode the world of data together! 📊💫</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
+</h4>On my GitHub Profile: Data Whisperer | Unveiling insights through data manipulation, stats analysis, and visualization. Let's decode the world of data together! 📊💫</h4>
 <div align="center">
 <img src = "https://i.postimg.cc/3JZnX2Wh/profile.gif">
 </div>
