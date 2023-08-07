@@ -15,7 +15,7 @@
 - 📫 How to reach me **mansijain244@gmail.com**
 
 <!-- Show 💓 by giving ⭐to my Repositories, at least your star could make someone's day 😄.-->
-# Brighten someone's day with a ⭐! Give a ⭐ to a repository you find useful or inspiring 😄.
+- Brighten someone's day with a ⭐! Give a ⭐ to a repository you find useful or inspiring 😄.
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
