@@ -8,12 +8,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansijain1412&label=Profile%20views&color=0e75b6&style=flat" alt="mansijain1412" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Data analytics** and **new tools**.
 
-- 💬 Ask me about **Excel,SQL,Python,PowerBI**
+- 💬 Ask me about **Excel,SQL, Python,PowerBI, Machine Learning**
 
 - 📫 How to reach me **mansijain244@gmail.com**
 
+- Show 💓 by giving ⭐to my Repositories, at least your star could make someone's day 😄.
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
