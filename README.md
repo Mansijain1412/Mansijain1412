@@ -22,6 +22,35 @@
 
 <h2 align="center">My Skills</h2>
 
+## Languages and Tools:
+<div>
+ 
+* **Data Storage:** MySQL.
+
+* **Data Processing and Analytics:** Excel,Python, Pandas, Numpy, and NLTK.
+  
+* **Data Visualization:** Seaborn, Matplotlib, Power Bi and Excel.
+
+* **Machine Learning Modeling:** Classification, Regression, and Clusterization.
+
+* **Webscraping:** Selenium web-driver, Beautifulsoup, and requests.
+
+* **Automation tool:** Selenium.
+
+* **Python Library** NumPy,Pandas,Pymysql, SqlAlchemy, Scikitlearn, Scipy, NLTK.
+</div>
+
+ <br>
+<div align="center">
+
+<img src="https://img.icons8.com/color/48/null/python--v1.png"/> <img src="https://img.icons8.com/color/48/null/numpy.png"/> <img src="https://img.icons8.com/color/48/null/pandas.png"/> <img src="https://img.icons8.com/color/48/null/selenium-test-automation.png"/>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> </a> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> </a> 
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/>  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="45"/> <img src="https://img.icons8.com/color/48/null/power-bi.png"/><img src="https://img.icons8.com/color/48/null/ms-excel.png"/> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/google-sheets.png" alt="google-sheets"/> <img width="48" height="48" src="https://img.icons8.com/color/48/ms-powerpoint--v1.png" alt="ms-powerpoint--v1"/>
+
+</div>
+<br>
 
 <br>
 
