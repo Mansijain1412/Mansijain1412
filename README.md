@@ -1,5 +1,5 @@
 <h1 align="center">I'm Mansi Jain 👋🏼</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Data Analyst from India, GitHub Profile: Data Whisperer | Unveiling insights through data manipulation, stats analysis, and visualization. Let's decode the world of data together! 📊💫</h3>
 <div align="center">
 <img src = "https://i.postimg.cc/3JZnX2Wh/profile.gif">
 </div>
@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansijain1412&label=Profile%20views&color=0e75b6&style=flat" alt="mansijain1412" /> </p>
 
-- 🌱 I’m currently learning **Data analytics** and **new tools**.
+- 🌱 I’m currently learning **Data analytics**.
 
 - 💬 Ask me about **Excel,SQL, Python,PowerBI, Machine Learning**
 
