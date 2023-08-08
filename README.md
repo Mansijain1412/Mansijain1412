@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansijain1412&label=Profile%20views&color=0e75b6&style=flat" alt="mansijain1412" /> </p>
 <br>
-- 🌱 I’m currently learning **Data analytics**.
+- 🌱 I’m currently learning ## Data analytics
 
 - 💬 Ask me about **Excel,SQL, Python,PowerBI, Machine Learning**
 
